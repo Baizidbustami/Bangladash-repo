@@ -1,0 +1,112 @@
+
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.people{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bang{
+
+}
+
+.ladash{
+    font-family: Monotype Corsiva;
+    font-size: 21px;
+}
+.btn{
+    text-decoration: none;
+    content:'';
+    background-image: linear-gradient(orange,tomato,red,pink);
+    padding:8px;
+    color:white;
+    font-weight: 700;
+}
+.btn:hover{
+    text-decoration: underline;
+    color:rgb(157, 250, 157);
+}
+.bangladash{
+    display:flex;
+    justify-content: space-between;
+    padding:0px 20px;
+    
+    
+    
+}
+
+.bang{
+  width:60%;
+  padding:60px 20px;
+  text-align: justif;
+}
+
+.map{
+    width:40%;
+}
+.all{
+    text-align: center;
+    font-family: Haettenschweiler;
+    font-weight: 450;
+    font-size: 50px;
+    text-shadow: 5px 5px 4px red;
+}
+
+
+.dhaka{
+    width:350px;
+    border:solid;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    
+}
+
+
+.div-img{
+    width: 100px;
+}
+.all-devision{
+    padding:0px 30px 20px;
+    display:flex;
+    justify-content: space-between;
+  
+    
+}
+
+.h1{
+    text-align:center;
+}
+.dhaka-p{
+text-align: justify;
+font-family: Monotype Corsiva;
+font-size: 21px;
+padding:10px;
+}
+.btne{
+    text-decoration: none;
+    content:'';
+    background-image: linear-gradient(orange,tomato,red,pink);
+    padding:8px;
+    color:white;
+    font-weight: 700;
+    
+    
+}
+.btne:hover{
+    text-decoration: underline;
+    color:rgb(157, 250, 157);
+}
+.my-Dhaka{
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.no{
+    width:100%;
+}
+
+
+
